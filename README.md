@@ -12,11 +12,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadabdullah" /> </p>
 
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript, reactjs**
 
-- 📫 How to reach me **ahammad@zeneticesports.com**
+- 📫 How to reach me **ahammadabdullahnew@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
