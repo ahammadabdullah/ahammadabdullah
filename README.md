@@ -12,9 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahammadabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="ahammadabdullah" /> </p>
 
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently into Competitive programming
 
-- 💬 Ask me about **javascript, reactjs**
+- 💬 Ask me about **javascript, reactjs, Nextjs**
 
 - 📫 How to reach me **ahammadabdullahnew@gmail.com**
 
