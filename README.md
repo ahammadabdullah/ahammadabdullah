@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **javascript, reactjs, Nextjs**
 
-- 📫 How to reach me **ahammadabdullahnew@gmail.com**
+- 📫 How to reach me **hi@ahammadabdullah.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
