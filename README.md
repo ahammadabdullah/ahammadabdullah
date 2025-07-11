@@ -37,10 +37,9 @@
 [![An image of @ahammadabdullah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahammadabdullah)](https://holopin.io/@ahammadabdullah)
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahammadabdullah&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadabdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahammadabdullah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadabdullah&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
