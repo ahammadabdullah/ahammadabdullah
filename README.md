@@ -39,7 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahammadabdullah&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahammadabdullah&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahammadabdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br><br>
 
