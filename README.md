@@ -20,6 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+<a href="https://ahammadabdullah.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ahammad-abdullah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahammad-abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahammad-abdullah" height="30" width="40" /></a>
 <a href="https://fb.com/ahammad.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahammad.official" height="30" width="40" /></a>
 <a href="https://instagram.com/omw_pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omw_pal" height="30" width="40" /></a>
